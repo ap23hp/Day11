@@ -1,0 +1,51 @@
+body{
+    background-color: aqua;
+}
+
+.menu{
+    background-color: #e2832b;
+    max-width: 50%;
+    margin-left: 330px;
+    margin-top: 70px;
+}
+
+h1{
+    color: blanchedalmond;
+    margin-left: 210px;
+}
+
+p{
+    color: #130508;
+    margin-left: 150px;
+    font-weight: bold
+}
+
+.main{
+
+border-spacing: 10px;
+}
+#nam{
+    margin-bottom: 20px;
+    margin-left: 37%;
+}
+#em{
+    margin-bottom: 20px;
+    margin-left: 37%;
+}
+
+#yy{
+    margin-bottom: 20px;
+    margin-left: 37%;
+}
+
+#aa{
+    margin-bottom: 20px;
+    margin-left: 32%;
+    
+}
+button{
+    margin-left: 46%;
+    margin-bottom: 20px;
+}
+
+
